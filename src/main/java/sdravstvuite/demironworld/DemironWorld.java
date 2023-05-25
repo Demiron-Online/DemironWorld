@@ -6,7 +6,6 @@ import sdravstvuite.demironworld.Towny.TownyPl;
 import static sdravstvuite.demironworld.Towny.TownyPl.registerCustomPlot;
 
 public final class DemironWorld extends JavaPlugin {
-
     private static DemironWorld instance;
     public static DemironWorld getInstance() {
         return instance;
