@@ -1,0 +1,5 @@
+name: DemironWorld
+version: '1.0'
+main: sdravstvuite.demironworld.DemironWorld
+api-version: 1.19
+authors: [Sdravstvuite]
