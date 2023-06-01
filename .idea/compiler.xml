@@ -9,8 +9,5 @@
         <module name="DemironWorld" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="DemironWorld" target="1.8" />
-    </bytecodeTargetLevel>
   </component>
 </project>
